@@ -1,8 +1,6 @@
 name: Bing
 
 on:
-  schedule:
-    - cron: "20 5,8,14,17 * * *"
   workflow_dispatch:
 
 jobs:
